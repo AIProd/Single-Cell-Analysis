@@ -6,6 +6,7 @@ https://rpubs.com/aranyak111/693840
 
 Tutorial of single-cell RNA-seq data analysis in R
 https://github.com/quadbio/scRNAseq_analysis_vignette/blob/master/Tutorial.md
+https://holab-hku.github.io/Fundamental-scRNA/background.html#single-cell-rna-sequencing-scrna-seq
 
 Cell type annotation example
 https://igordot.github.io/clustermole/articles/example-bm-seurat.html
